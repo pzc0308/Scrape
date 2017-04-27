@@ -1,0 +1,21 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.15.2",
+    "install": "^0.8.9",
+    "npm": "^4.5.0",
+    "request": "^2.81.0",
+    "tiny-request": "^2.0.0",
+    "tinyreq": "^3.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
